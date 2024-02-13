@@ -25,9 +25,11 @@ I'm Mariam Ayman, a CS undergraduate student in FCI-CU. Welcome to my GitHub pro
 
 Here are a few projects I'm proud of:
 
-- [Project Name](Link to project)
-- [Project Name](Link to project)
-- [Project Name](Link to project)
+- Order & Notification Management System [(Link to project)](https://github.com/mariamayman10/OrderNotificationM)
+- FlixHub [(Link to project)](https://github.com/mariamayman10/FlixHub)
+- ClaudiaWeather [(Link to project)](https://github.com/mariamayman10/ClaudiaWeather)
+- MartMe [(Link to project)](https://github.com/mariamayman10/MartMe)
+- EgyptExplorer  [(Link to project)](https://github.com/mariamayman10/EgyptExplorer)
 
 ## GitHub Stats
 
@@ -38,4 +40,4 @@ Here are a few projects I'm proud of:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamayman10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **Feel free to connect with me and explore my projects!** 😊
-📫 How to reach me: [Email](mailto:mariamayman3131@gmail.com) | [LinkedIn](www.linkedin.com/in/mariam-ayman-40957a267)
+📫 How to reach me: [Email](mailto:mariamayman3131@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mariam-ayman-40957a267)
