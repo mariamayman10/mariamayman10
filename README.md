@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Mariam Ayman, a CS undergraduate student in FCI-CU. Welcome to my GitHub profile!
+I'm Mariam Ayman, a CS undergraduate student in FCAI-CU. Welcome to my GitHub profile!
 
 ## Skills
 
