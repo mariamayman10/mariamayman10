@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Mariam Ayman, a CS undergraduate student in FCAI-CU. Welcome to my GitHub profile!
+I'm Mariam Ayman, a CS graduate from FCAI-CU. Welcome to my GitHub profile!
 
 ## Skills
 
@@ -8,6 +8,8 @@ I'm Mariam Ayman, a CS undergraduate student in FCAI-CU. Welcome to my GitHub pr
 - C++
 - Python
 - Java
+- TypeScript
+- JavaScript
 
 ### Web Development
 - HTML
@@ -15,10 +17,11 @@ I'm Mariam Ayman, a CS undergraduate student in FCAI-CU. Welcome to my GitHub pr
 - CSS
 - CSS3
 - Bootstrap
-- JavaScript
+- NodeJS
 
 ### Web Frameworks
 - ReactJS
+- Angular
 - Django
 
 ## Projects
@@ -40,4 +43,4 @@ Here are a few projects I'm proud of:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamayman10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **Feel free to connect with me and explore my projects!** 😊
-📫 How to reach me: [Email](mailto:mariamayman3131@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mariam-ayman-40957a267)
+📫 How to reach me: [Email](mailto:mariamayman3131@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mariam-ayman0/)
