@@ -1,46 +1,43 @@
-# Hi there! 👋
+# Hi there 👋, I'm Mariam Ayman
 
-I'm Mariam Ayman, a CS graduate from FCAI-CU. Welcome to my GitHub profile!
+**Full Stack Developer | Fresh Graduate | Open to Work**  
+📍 Cairo, Egypt
 
-## Skills
+---
 
-### Programming Languages
-- C++
-- Python
-- Java
-- TypeScript
-- JavaScript
+## 💻 Tech Stack
 
-### Web Development
-- HTML
-- HTML5
-- CSS
-- CSS3
-- Bootstrap
-- NodeJS
+**Frontend:** Angular, ReactJS, HTML5, CSS3, Bootstrap  
+**Backend:** Node.js, Express.js  
+**Databases:** PostgreSQL, MySQL, MongoDB, MSSQL  
+**Tools & DevOps:** Git, GitHub Actions, Docker (basic), CI/CD (basic)
 
-### Web Frameworks
-- ReactJS
-- Angular
-- Django
+---
 
-## Projects
+## 🚀 Projects
 
-Here are a few projects I'm proud of:
+### [CodeAid](https://github.com/TheCodeAid/CodeAid-Extension)  
+_VSC extension for Java developers to improve code design by detecting SOLID violations and coupling smells using finetuned LLMs. Includes project structure visualization._
 
-- Order & Notification Management System [(Link to project)](https://github.com/mariamayman10/OrderNotificationM)
-- FlixHub [(Link to project)](https://github.com/mariamayman10/FlixHub)
-- ClaudiaWeather [(Link to project)](https://github.com/mariamayman10/ClaudiaWeather)
-- MartMe [(Link to project)](https://github.com/mariamayman10/MartMe)
-- EgyptExplorer  [(Link to project)](https://github.com/mariamayman10/EgyptExplorer)
+### [Fish Souq](https://fishsouq.vercel.app/home)  
+_Frontend website and admin dashboard developed with Angular._
 
-## GitHub Stats
+### [FlixHub](https://github.com/mariamayman10/FlixHub)  
+_Movie search engine with watchlist and favorites features, built with ReactJS._
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamayman10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### [Cartify](https://github.com/mariamayman10/cartify)  
+_E-commerce website with admin dashboard built with Angular, backend using Node.js & Express.js, database MongoDB._
 
-## Top Languages
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamayman10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 📫 Contact
 
-**Feel free to connect with me and explore my projects!** 😊
-📫 How to reach me: [Email](mailto:mariamayman3131@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mariam-ayman0/)
+- [GitHub](https://github.com/mariamayman10)  
+- [LinkedIn](https://www.linkedin.com/in/mariam-ayman0/)  
+- Email: mariamayman3131@gmail.com
+
+---
+![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamayman10&show_icons=true&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamayman10&layout=compact)
+
+
