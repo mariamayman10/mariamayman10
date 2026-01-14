@@ -36,8 +36,4 @@ _E-commerce website with admin dashboard built with Angular, backend using Node.
 - [LinkedIn](https://www.linkedin.com/in/mariam-ayman0/)  
 - Email: mariamayman3131@gmail.com
 
----
-![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamayman10&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamayman10&layout=compact)
-
 
