@@ -7,7 +7,7 @@
 
 ## 💻 Tech Stack
 
-**Frontend:** Angular, ReactJS, HTML5, CSS3, Bootstrap  
+**Frontend:** Angular, ReactJS, HTML5, CSS3, Bootstrap, TailwindCSS  
 **Backend:** Node.js, Express.js  
 **Databases:** PostgreSQL, MySQL, MongoDB, MSSQL  
 **Tools & DevOps:** Git, GitHub Actions, Docker (basic), CI/CD (basic)
