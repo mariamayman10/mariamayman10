@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Mariam Ayman
 
-**Full Stack Developer | Fresh Graduate | Open to Work**  
-📍 Cairo, Egypt
-
+**Full Stack Developer**
 ---
 
 ## 💻 Tech Stack
